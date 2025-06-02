@@ -37,6 +37,3 @@ This project implements a basic **text classification pipeline** using **TF-IDF 
 | Accuracy   | 0.97   |
 
 ---
-
-## 📁 Project Structure
-
